@@ -1,4 +1,4 @@
-using Ambacht.MudBlazor.AutoForm.App;
+using Ambacht.MudBlazorAutoForm.App;
 using Microsoft.AspNetCore.Components.Web;
 using Microsoft.AspNetCore.Components.WebAssembly.Hosting;
 using MudBlazor.Services;
